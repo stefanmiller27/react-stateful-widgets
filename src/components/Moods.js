@@ -1,6 +1,8 @@
 /*
 MOODS Instructions
 
+//still simple a little more complex though
+
 Watch this short video:
 https://tk-assets.lambdaschool.com/fe491c4f-395b-425c-b62e-3fbebf3cbb3f_moods-clip.gif
 

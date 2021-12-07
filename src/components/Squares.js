@@ -72,3 +72,5 @@ export default function Squares() {
     </div>
   );
 }
+
+//unit 1 was easy unit 2 and 3 is where I struggled and need to step it up, I optted to flex unit 2 just to solidify this contnent before progressing

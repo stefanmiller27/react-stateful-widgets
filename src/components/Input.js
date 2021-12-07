@@ -1,6 +1,8 @@
 /*
 INPUT Instructions
 
+//simple
+
 Watch this short video:
 https://tk-assets.lambdaschool.com/a664dfe7-2dde-48d1-8fa2-48066d98e515_input.gif
 
@@ -50,6 +52,7 @@ export default function Input() {
   const reset = () => {
     /* STEP 5 */
     setInputValue('')
+  
   };
 
   const style = {

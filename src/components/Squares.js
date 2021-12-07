@@ -1,6 +1,8 @@
 /*
 SQUARES Instructions
 
+//this and spinners most difficult hands down
+
 Watch this short video:
 https://tk-assets.lambdaschool.com/0aebd463-7c5e-4d0b-ad22-4da8f4b54e92_squares.gif
 
